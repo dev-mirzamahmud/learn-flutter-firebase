@@ -1,0 +1,1 @@
+enum SnackbarType { SUCCESS, ERROR, WARNING, RESTRICTED }
